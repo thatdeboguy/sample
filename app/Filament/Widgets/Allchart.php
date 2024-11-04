@@ -8,7 +8,7 @@ use Filament\Widgets\ChartWidget;
 
 class Allchart extends ChartWidget
 {
-    protected static ?string $heading = 'Chart';
+    protected static ?string $heading = 'User Registration';
     protected static ?int $sort = 3;
 
 
